@@ -1,0 +1,13 @@
+user_id,timestamp,event_id,open_type
+u1,1700000000000,open,manual
+u1,1700000005000,close,
+u1,1700000010000,open,auto
+u1,1700000040000,close,
+u1,1700000050000,open,manual
+u1,1700000100000,close,
+u2,1700000000000,open,auto
+u2,1700000200000,close,
+u2,1700000300000,open,manual
+u2,1700000310000,open,manual
+u2,1700000400000,close,
+u3,1700000000000,open,auto
